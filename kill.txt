@@ -1,0 +1,17 @@
+C:\Windows\system32\AUDIODG.EXE 0x5bc
+C:\Windows\system32\nvvsvc.exe
+C:\Windows\system32\nvvsvc.exe -session -first
+C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23072.150.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe -ComServer:Background -Embedding
+C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+SgrmBroker.exe
+C:\Windows\System32\smartscreen.exe -Embedding
+C:\Program Files (x86)\Microsoft Office\root\Office16\msoia.exe scan upload mininterval:2880
+C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe /service
+C:\Windows\system32\wbem\wmiprvse.exe
+msedge.exe
+C:\Windows\helppane.exe -Embedding
+C:\Windows\system32\backgroundTaskHost.exe -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
