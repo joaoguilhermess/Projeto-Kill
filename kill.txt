@@ -2,6 +2,7 @@ audiodg.exe
 C:/Program Files/NVIDIA Corporation/Display/nvtray.exe -user_has_logged_in 1
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOFT
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlservr.exe -sJAMSOFT
+C:\Program Files (x86)\AnyDesk\AnyDesk.exe --control
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --service
 C:\Program Files (x86)\GraphOn\AppController\UpdateService.exe
 C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
@@ -54,5 +55,5 @@ GoogleCrashHandler64.exe
 msedge.exe
 SecurityHealthService.exe
 sppsvc.exe
-taskhostw.exe
 sppsvc.exe
+taskhostw.exe

@@ -18,7 +18,7 @@ class Kill:
 
 			self.killServices()
 
-			self.killProcesses()
+			# self.killProcesses()
 
 			if time.time() - start > self.max:
 				break
