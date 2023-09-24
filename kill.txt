@@ -1,5 +1,8 @@
+%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 9
+AdobeIPCBroker.exe
 audiodg.exe
 C:/Program Files/NVIDIA Corporation/Display/nvtray.exe -user_has_logged_in 1
+C:\JAMSOFT Sistemas\JAMSAC\Monitor_DFe.exe
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOFT
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlservr.exe -sJAMSOFT
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --control
@@ -22,6 +25,7 @@ C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
 C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
 C:\Program Files\WindowsApps\Microsoft.GamingServices_13.80.25001.0_x64__8wekyb3d8bbwe\GamingServices.exe
 C:\Program Files\WindowsApps\Microsoft.GamingServices_13.80.25001.0_x64__8wekyb3d8bbwe\GamingServicesNet.exe
+C:\Program Files\WindowsApps\Microsoft.GamingServices_14.80.29002.0_x64__8wekyb3d8bbwe\GamingServices.exe
 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBar.exe -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe -Embedding
 C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23072.150.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe -ComServer:Background -Embedding
@@ -51,11 +55,16 @@ C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe -Serv
 C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe -ServerName:InputApp.AppXjd5de1g66v206tj52m9d0dtpppx4cgpn.mca
 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3266_none_7e25389a7c7bcadb\TiWorker.exe -Embedding
+CCXProcess.exe
+CompatTelRunner.exe
 dasHost.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
 msedge.exe
-SecurityHealthService.exe
 sppsvc.exe
 sppsvc.exe
+steam.exe
+steamservice.exe
+steamwebhelper.exe
 taskhostw.exe
