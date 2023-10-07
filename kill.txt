@@ -62,9 +62,13 @@ dasHost.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
 msedge.exe
+QtWebEngineProcess.exe
+rundll32.exe
 sppsvc.exe
 sppsvc.exe
 steam.exe
 steamservice.exe
 steamwebhelper.exe
+stremio-runtime.exe
+stremio.exe
 taskhostw.exe
