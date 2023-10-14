@@ -1,6 +1,9 @@
 %systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 9
 AdobeIPCBroker.exe
+armsvc.exe
 audiodg.exe
+avp.exe
+avpui.exe
 C:/Program Files/NVIDIA Corporation/Display/nvtray.exe -user_has_logged_in 1
 C:\JAMSOFT Sistemas\JAMSAC\Monitor_DFe.exe
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOFT
@@ -39,6 +42,7 @@ C:\Windows\system32\backgroundTaskHost.exe -ServerName:AD2F1837.HPPrinterControl
 C:\Windows\system32\backgroundTaskHost.exe -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca
 C:\Windows\system32\backgroundTaskHost.exe -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca
 C:\Windows\system32\backgroundTaskHost.exe -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+C:\Windows\System32\drivers\AdminService.exe
 C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe
 C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_cad1db73e8c782a6\WMIRegistrationService.exe
 C:\Windows\System32\mousocoreworker.exe -Embedding
@@ -58,47 +62,43 @@ C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe 
 C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3266_none_7e25389a7c7bcadb\TiWorker.exe -Embedding
 CCXProcess.exe
 CompatTelRunner.exe
+CompPkgSrv.exe
 dasHost.exe
+dptf_helper.exe
+EEventManager.exe
+EPCP.exe
+escsvc64.exe
+esif_uf.exe
+FileCoAuth.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
+helperservice.exe
+igfxCUIService.exe
+IntelCpHDCPSvc.exe
+IntelCpHeciSvc.exe
+jusched.exe
+Lightshot.exe
+LMS.exe
 msedge.exe
+nssm.exe
+OneApp.IGCC.WinService.exe
+OneDrive.exe
+PrintIsolationHost.exe
 QtWebEngineProcess.exe
+RtkAudioService64.exe
 rundll32.exe
+SecurityHealthService.exe
 sppsvc.exe
 sppsvc.exe
+StartMenuExperienceHost.exe
 steam.exe
 steamservice.exe
 steamwebhelper.exe
 stremio-runtime.exe
 stremio.exe
+SynTPEnhService.exe
+SynTPHelper.exe
 taskhostw.exe
-Lightshot.exe
-PrintIsolationHost.exe
-C:\Windows\System32\drivers\AdminService.exe
 TeamViewer_Service.exe
-nssm.exe
 WavesSysSvc64.exe
 WUDFHost.exe
-RtkAudioService64.exe
-OneDrive.exe
-jusched.exe
-IntelCpHeciSvc.exe
-SynTPEnhService.exe
-armsvc.exe
-CompPkgSrv.exe
-EEventManager.exe
-EPCP.exe
-escsvc64.exe
-helperservice.exe
-igfxCUIService.exe
-LMS.exe
-esif_uf.exe
-dptf_helper.exe
-SynTPHelper.exe
-IntelCpHDCPSvc.exe
-OneApp.IGCC.WinService.exe
-avp.exe
-SecurityHealthService.exe
-avpui.exe
-StartMenuExperienceHost.exe
-FileCoAuth.exe
