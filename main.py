@@ -9,7 +9,7 @@ class Kill:
 		self.name = "kill.txt"
 		self.delay = 0.5
 
-		self.max = 5
+		self.max = 10
 
 		start = time.time()
 
@@ -29,6 +29,9 @@ class Kill:
 	def read(self):
 		if not os.path.exists(self.name):
 			file = open(self.name, "w")
+
+			file.write("\n")
+
 			file.close()
 
 		file = open(self.name, "r")
