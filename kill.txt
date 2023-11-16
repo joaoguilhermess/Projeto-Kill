@@ -4,6 +4,7 @@ armsvc.exe
 audiodg.exe
 avp.exe
 avpui.exe
+backgroundTaskHost.exe
 C:/Program Files/NVIDIA Corporation/Display/nvtray.exe -user_has_logged_in 1
 C:\JAMSOFT Sistemas\JAMSAC\Monitor_DFe.exe
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOFT
@@ -31,7 +32,6 @@ C:\Program Files\WindowsApps\Microsoft.GamingServices_13.80.25001.0_x64__8wekyb3
 C:\Program Files\WindowsApps\Microsoft.GamingServices_14.80.29002.0_x64__8wekyb3d8bbwe\GamingServices.exe
 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBar.exe -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
 C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe -Embedding
-C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23072.150.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe -ComServer:Background -Embedding
 C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
 C:\Windows\helppane.exe -Embedding
 C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe
@@ -71,10 +71,12 @@ EPCP.exe
 escsvc64.exe
 esif_uf.exe
 FileCoAuth.exe
+gamingservices.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
 helperservice.exe
 HxCalendarApplmm.exe
+HxTsr.exe
 igfxCUIService.exe
 IntelCpHDCPSvc.exe
 IntelCpHeciSvc.exe
@@ -85,6 +87,7 @@ msedge.exe
 nssm.exe
 OneApp.IGCC.WinService.exe
 OneDrive.exe
+PhoneExperienceHost.exe
 PrintIsolationHost.exe
 QtWebEngineProcess.exe
 RtkAudioService64.exe
@@ -101,7 +104,6 @@ SynTPEnhService.exe
 SynTPHelper.exe
 taskhostw.exe
 TeamViewer_Service.exe
+Video.Ui.exe
 WavesSysSvc64.exe
 WUDFHost.exe
-Video.Ui.exe
-HxTsr.exe

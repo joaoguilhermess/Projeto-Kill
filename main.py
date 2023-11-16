@@ -16,9 +16,9 @@ class Kill:
 		while True:
 			self.read()
 
-			self.killServices()
-
 			self.killProcesses()
+
+			self.killServices()
 
 			if time.time() - start > self.max:
 				break
