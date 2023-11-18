@@ -90,9 +90,11 @@ OneDrive.exe
 PhoneExperienceHost.exe
 PrintIsolationHost.exe
 QtWebEngineProcess.exe
+RockstarErrorHandler.exe
 RtkAudioService64.exe
 rundll32.exe
 SecurityHealthService.exe
+SocialClubHelper.exe
 sppsvc.exe
 StartMenuExperienceHost.exe
 steam.exe
@@ -107,5 +109,3 @@ TeamViewer_Service.exe
 Video.Ui.exe
 WavesSysSvc64.exe
 WUDFHost.exe
-SocialClubHelper.exe
-RockstarErrorHandler.exe
