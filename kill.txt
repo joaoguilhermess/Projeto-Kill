@@ -27,11 +27,6 @@ C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe /
 C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
 C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
 C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
-C:\Program Files\WindowsApps\Microsoft.GamingServices_13.80.25001.0_x64__8wekyb3d8bbwe\GamingServices.exe
-C:\Program Files\WindowsApps\Microsoft.GamingServices_13.80.25001.0_x64__8wekyb3d8bbwe\GamingServicesNet.exe
-C:\Program Files\WindowsApps\Microsoft.GamingServices_14.80.29002.0_x64__8wekyb3d8bbwe\GamingServices.exe
-C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBar.exe -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
-C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.7272.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe -Embedding
 C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
 C:\Windows\helppane.exe -Embedding
 C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe
@@ -71,7 +66,10 @@ EPCP.exe
 escsvc64.exe
 esif_uf.exe
 FileCoAuth.exe
+GameBar.exe
+GameBarFTServer.exe
 gamingservices.exe
+gamingservicesnet.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
 helperservice.exe
@@ -93,7 +91,6 @@ QtWebEngineProcess.exe
 RockstarErrorHandler.exe
 RtkAudioService64.exe
 rundll32.exe
-SecurityHealthService.exe
 SocialClubHelper.exe
 sppsvc.exe
 StartMenuExperienceHost.exe
