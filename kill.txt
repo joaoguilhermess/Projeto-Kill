@@ -15,7 +15,6 @@ C:\Program Files (x86)\Google\Update\GoogleUpdate.exe /c
 C:\Program Files (x86)\GraphOn\AppController\UpdateService.exe
 C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
 C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
-C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe Global\GameInputSession_1
 C:\Program Files (x86)\Microsoft Office\root\Office16\msoia.exe scan upload mininterval:2880
 C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe
 C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c
@@ -23,7 +22,6 @@ C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe
 C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe
 C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe
 C:\Program Files (x86)\Radmin VPN\RvControlSvc.exe /service
-C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe /service
 C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
 C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
 C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
@@ -83,6 +81,7 @@ Lightshot.exe
 LMS.exe
 msedge.exe
 nssm.exe
+OfficeClickToRun.exe
 OneApp.IGCC.WinService.exe
 OneDrive.exe
 PhoneExperienceHost.exe

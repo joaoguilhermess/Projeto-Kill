@@ -66,9 +66,9 @@ class Kill:
 					cmd = " ".join(p.cmdline())
 
 					if cmd in self.list or name in self.list:
-						subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
+						# subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
 
-						# subprocess.run(["net", "stop", str(s.name())], capture_output=True)
+						subprocess.run(["net", "stop", str(s.name())], capture_output=True)
 						
 						print(s.name(), name, cmd)
 			except Exception as e:
