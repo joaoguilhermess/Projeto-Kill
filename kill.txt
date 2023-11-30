@@ -81,6 +81,7 @@ Lightshot.exe
 LMS.exe
 msedge.exe
 nssm.exe
+OfficeC2RClient.exe
 OfficeClickToRun.exe
 OneApp.IGCC.WinService.exe
 OneDrive.exe
