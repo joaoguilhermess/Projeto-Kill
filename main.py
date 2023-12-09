@@ -6,7 +6,8 @@ import time
 class Kill:
 	@classmethod
 	def Init(self):
-		self.name = "kill.txt"
+		self.listFile = "kill.txt"
+		self.ignoreFile = "ignore.txt"
 		self.delay = 0.5
 
 		self.max = 15
@@ -27,16 +28,27 @@ class Kill:
 
 	@classmethod
 	def read(self):
-		if not os.path.exists(self.name):
-			file = open(self.name, "w")
+		if not os.path.exists(self.listFile):
+			file = open(self.listFile, "w")
 
 			file.write("\n")
 
 			file.close()
 
-		file = open(self.name, "r")
+		file = open(self.listFile, "r")
 
 		self.list = file.read().split("\n")
+
+		if not os.path.exists(self.ignoreFile):
+			file = open(self.ignoreFile, "w")
+
+			file.write("\n")
+
+			file.close()
+
+		file = open(self.ignoreFile, "r")
+
+		self.ignore = file.read().split("\n")
 
 	@classmethod
 	def killProcesses(self):
@@ -46,10 +58,12 @@ class Kill:
 
 				cmd = " ".join(p.cmdline())
 
-				if cmd in self.list or name in self.list:
-					subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
+				if cmd not in self.ignore and name not in self.ignore:
+					if cmd in self.list or name in self.list:
+						subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
 
-					print(name, cmd)
+						print(name, cmd)
+
 			except Exception as e:
 				# print("error", e)
 				pass
@@ -65,12 +79,13 @@ class Kill:
 
 					cmd = " ".join(p.cmdline())
 
-					if cmd in self.list or name in self.list:
-						# subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
+					if cmd not in self.ignore and name not in self.ignore:
+						if cmd in self.list or name in self.list:
+							# subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)
 
-						subprocess.run(["net", "stop", str(s.name())], capture_output=True)
-						
-						print(s.name(), name, cmd)
+							subprocess.run(["net", "stop", str(s.name())], capture_output=True)
+							
+							print(s.name(), name, cmd)
 			except Exception as e:
 				# print("error", e)
 				pass
