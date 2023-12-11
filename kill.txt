@@ -11,7 +11,6 @@ C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOF
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlservr.exe -sJAMSOFT
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --control
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --service
-C:\Program Files (x86)\Google\Update\GoogleUpdate.exe /c
 C:\Program Files (x86)\GraphOn\AppController\UpdateService.exe
 C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
 C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
@@ -70,6 +69,7 @@ gamingservices.exe
 gamingservicesnet.exe
 GoogleCrashHandler.exe
 GoogleCrashHandler64.exe
+GoogleUpdate.exe
 helperservice.exe
 HxCalendarApplmm.exe
 HxTsr.exe
@@ -103,6 +103,7 @@ SynTPEnhService.exe
 SynTPHelper.exe
 taskhostw.exe
 TeamViewer_Service.exe
+TrustedInstaller.exe
 Video.Ui.exe
 WavesSysSvc64.exe
 WUDFHost.exe
