@@ -107,3 +107,4 @@ TrustedInstaller.exe
 Video.Ui.exe
 WavesSysSvc64.exe
 WUDFHost.exe
+JAMSAC.exe
