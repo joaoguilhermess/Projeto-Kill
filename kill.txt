@@ -5,6 +5,7 @@ audiodg.exe
 avp.exe
 avpui.exe
 backgroundTaskHost.exe
+BingChatInstaller.EXE
 C:/Program Files/NVIDIA Corporation/Display/nvtray.exe -user_has_logged_in 1
 C:\JAMSOFT Sistemas\JAMSAC\Monitor_DFe.exe
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOFT
@@ -76,6 +77,7 @@ HxTsr.exe
 igfxCUIService.exe
 IntelCpHDCPSvc.exe
 IntelCpHeciSvc.exe
+JAMSAC.exe
 jusched.exe
 Lightshot.exe
 LMS.exe
@@ -107,5 +109,3 @@ TrustedInstaller.exe
 Video.Ui.exe
 WavesSysSvc64.exe
 WUDFHost.exe
-JAMSAC.exe
-BingChatInstaller.EXE
