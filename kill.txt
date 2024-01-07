@@ -19,7 +19,6 @@ C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
 C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
 C:\Program Files (x86)\Microsoft Office\root\Office16\msoia.exe scan upload mininterval:2880
 C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe
-C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c
 C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe
 C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe
 C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe
@@ -102,6 +101,7 @@ jusched.exe
 Lightshot.exe
 LMS.exe
 LocationNotificationWindows.exe
+MicrosoftEdgeUpdate.exe
 msedge.exe
 msedgewebview2.exe
 nssm.exe
@@ -116,6 +116,7 @@ RockstarErrorHandler.exe
 RtkAudioService64.exe
 RtkAudUService64.exe
 rundll32.exe
+RvRvpnGui.exe
 SearchHost.exe
 ServiceShell.exe
 SocialClubHelper.exe
