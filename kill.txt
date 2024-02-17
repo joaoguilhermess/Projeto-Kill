@@ -138,3 +138,5 @@ WavesAudioService.exe
 WavesSysSvc64.exe
 WidgetService.exe
 WUDFHost.exe
+emulator.exe
+qemu-system-x86_64.exe
