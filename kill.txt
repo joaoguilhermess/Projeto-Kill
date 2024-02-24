@@ -14,6 +14,7 @@ C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOF
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlservr.exe -sJAMSOFT
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --control
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --service
+C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\JRE\bin\javaw.exe  -jar C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\lib\app.jar
 C:\Program Files (x86)\GraphOn\AppController\UpdateService.exe
 C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
 C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
@@ -75,6 +76,7 @@ Dell.TechHub.Instrumentation.UserProcess.exe
 DellSupportAssistRemedationService.exe
 dptf_helper.exe
 EEventManager.exe
+emulator.exe
 EPCP.exe
 escsvc64.exe
 esif_uf.exe
@@ -111,6 +113,7 @@ OneApp.IGCC.WinService.exe
 OneDrive.exe
 PhoneExperienceHost.exe
 PrintIsolationHost.exe
+qemu-system-x86_64.exe
 QtWebEngineProcess.exe
 RockstarErrorHandler.exe
 RtkAudioService64.exe
@@ -138,5 +141,3 @@ WavesAudioService.exe
 WavesSysSvc64.exe
 WidgetService.exe
 WUDFHost.exe
-emulator.exe
-qemu-system-x86_64.exe
