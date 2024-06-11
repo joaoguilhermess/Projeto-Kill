@@ -58,6 +58,7 @@ class Kill:
 
 				cmd = " ".join(p.cmdline())
 
+				# print(f"print: \"{name}\", \"{cmd}\"")
 				if cmd not in self.ignore and name not in self.ignore:
 					if cmd in self.list or name in self.list:
 						subprocess.run(["taskkill", "/f", "/t", "/pid", str(p.pid)], capture_output=True)

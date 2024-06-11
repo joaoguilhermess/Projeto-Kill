@@ -14,7 +14,6 @@ C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlceip.exe -Service JAMSOF
 C:\Jamsoft Sistemas\MSSQL\MSSQL14.JAMSOFT\MSSQL\Binn\sqlservr.exe -sJAMSOFT
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --control
 C:\Program Files (x86)\AnyDesk\AnyDesk.exe --service
-C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\JRE\bin\javaw.exe  -jar C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\lib\app.jar
 C:\Program Files (x86)\GraphOn\AppController\UpdateService.exe
 C:\Program Files (x86)\LogMeIn Hamachi\x64\hamachi-2.exe -s
 C:\Program Files (x86)\Microsoft GameInput\x64\gameinputsvc.exe
@@ -141,3 +140,6 @@ WavesAudioService.exe
 WavesSysSvc64.exe
 WidgetService.exe
 WUDFHost.exe
+C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\JRE\bin\javaw.exe -jar C:\Program Files (x86)\Domínio Sistemas\EnviaBoxe\lib\app.jar
+C:\Program Files\Rockstar Games\Launcher\Launcher.exe -launchTitleInFolder C:\Program Files\Rockstar Games\Grand Theft Auto San Andreas
+postgres.exe
